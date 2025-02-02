@@ -2,7 +2,7 @@
 
   1. #### Создан образ nginx на базе alpine. 
       Задание выполнялось на VM Fedora Linux Release 41 и nginx-1.27.3. Приложен Dockerfile и начальная страница nginx.
-      Ход выполнения отражен на скриншотах. Собранный образ запушен в docker hub:
+      Ход выполнения отражен на скриншотах. Собранный образ запушен в docker hub: 
       	https://hub.docker.com/r/alexandervakulenko/nginxtest
      
   2. Теоретические вопросы:
